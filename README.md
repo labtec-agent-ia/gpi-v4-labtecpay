@@ -53,4 +53,13 @@ The keystore (conf/keystore.jks) has these several entried that may need renewin
 - selfsigned, 18 Jun 2020, PrivateKeyEntry, Demo client key
 
 ## Authors
+
+labtec.inc
+
+## Advesors
+
 alex.salinas@swift.com
+
+## Proprietary 
+
+Control On Board 
